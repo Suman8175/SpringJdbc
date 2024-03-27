@@ -21,5 +21,30 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-core</artifactId>
+      <version>6.1.5</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>6.1.5</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/com.microsoft.sqlserver/mssql-jdbc -->
+    <dependency>
+      <groupId>com.microsoft.sqlserver</groupId>
+      <artifactId>mssql-jdbc</artifactId>
+      <version>12.6.1.jre11</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-jdbc</artifactId>
+      <version>6.1.5</version>
+    </dependency>
+
   </dependencies>
 </project>
